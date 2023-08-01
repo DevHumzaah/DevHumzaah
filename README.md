@@ -42,15 +42,3 @@ Nice to meet you, I'm Ali Hamza
 
 <br>
 
-<p align="center">Wanna Know me More?</p>
-
-<p align="center">
- 
-<a href="https://twitter.com/hamzatweets__" target="_blank">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a>
-
-<a href="https://www.instagram.com/humzaaah_" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>
-    
-
-</p>
